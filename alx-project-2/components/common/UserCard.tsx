@@ -1,0 +1,1 @@
+// Same as postCard but with user fields

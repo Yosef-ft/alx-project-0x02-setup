@@ -1,0 +1,1 @@
+// Same as Posts.tsx with userCard
